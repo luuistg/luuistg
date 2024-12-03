@@ -16,5 +16,8 @@ challenges that help me grow as a developer.
 
 # 🌟 Connect with me
 
-![Instagram Logo](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg)
+<a href="https://instagram.com/luuistg_" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" alt="Instagram Logo" width="30" height="30">
+</a>
+
 
