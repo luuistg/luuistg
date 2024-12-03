@@ -6,7 +6,7 @@ During my academic journey, I have worked with a wide variety of languages and t
 exploring both software development and programming for databases and web applications.
 I enjoy learning new tools and tackling challenges that help me grow as a developer.
 
-##### 📫 How to reach me [tortosagonzalezluis@gmail.com`](mailto: tortosagonzalezluis@gmail.com)
+##### 📫 How to reach me [tortosagonzalezluis@gmail.com`](mailto:tortosagonzalezluis@gmail.com)
 
 ### 💻 Languages and Technologies I Have Used
 - **Programming Languages:** C, Java, C#, Python
