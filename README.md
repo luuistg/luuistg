@@ -11,6 +11,7 @@ I enjoy learning new tools and tackling challenges that help me grow as a develo
 ### 💻 Languages and Technologies I Have Used
 - **Programming Languages:** C, Java, C#, Python
 - **Web Development:** HTML, JavaScript, PHP
+- **Mobile:** Swift
 - **Databases:** SQL, PL/SQL
 - **Other:** Experience in developing small applications, academic projects, and practical assignments
 
