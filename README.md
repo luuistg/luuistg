@@ -17,18 +17,9 @@ I enjoy learning new tools and tackling challenges that help me grow as a develo
 
 ### 🌟 Connect with me
 
-  <a href="https://instagram.com/luuistg_" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" alt="Instagram Logo" width="30" height="30">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/luis-tortosa-gonzalez-8b99b82b6/" target="_blank" >
-    <img src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin Logo" width="30" height="30">
-  </a>
-  
-  <a href="https://x.com/Luuistg" target="_blank" >
-    <img src="https://simpleicons.org/icons/x.svg" alt="X Logo" width="30" height="30">
-  </a>
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luuistg_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-tortosa-gonzalez-8b99b82b6/)
+[![x](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Luuistg)
 
 
 
